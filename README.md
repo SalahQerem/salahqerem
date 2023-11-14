@@ -1,3 +1,5 @@
+<p align="left"> <img width="250px" src="https://komarev.com/ghpvc/?username=salahqerem&color=00FFFF&style=flat-square&label=Salah%27s+profile+views" alt="Salah-Qerem-profile-views" /> </p>
+
 <h1 align="center">Hi 👋, I'm Salah Al-Din Qerem</h1>
 <h3 align="center">A Computer Sysytems Engineering Student</h3>
 
@@ -58,7 +60,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahqerem&layout=compact&langs_count=8&card_width=320" />
 </p>
 <hr /> 
-
-<h3 align="left">Visitors:👀</h3>
-
-<p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=salahqerem&color=00FFFF&style=flat-square&label=Salah%27s+profile+views" alt="Salah-Qerem-profile-views" /> </p>
