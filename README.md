@@ -53,10 +53,12 @@
     <h3 align="left">Statistics:📊</h3>
     
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=salahqerem&show_icons=true" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahqerem" />
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahqerem&layout=compact&langs_count=8&card_width=320" />
-      </p>
+      <img src="https://github-readme-stats.vercel.app/api?username=salahqerem&show_icons=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahqerem" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahqerem&layout=compact&langs_count=8&card_width=320" />
+    </p>
     <hr />
+    
     <h3 align="left">Visitors:👀</h3>
+    
     <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=salahqerem&color=00FFFF&style=flat-square&label=Salah+profile+views" alt="Salah-Qerem-profile-views" /> </p>
