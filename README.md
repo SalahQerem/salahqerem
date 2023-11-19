@@ -50,15 +50,21 @@
         <img width="12" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </p>
-    <hr /> 
-    <h3 align="left">Statistics:📊</h3>
-
+<hr /> 
+<h3 align="left">Statistics:📊</h3>
+<h3>Github Statistics 📈</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=salahqerem&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahqerem" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahqerem&layout=compact&langs_count=8&card_width=320" />
 </p>
-<hr /> 
+<h3>Competitive Programming Statistics 📉</h3>
+<div align="center">
+  <img height=300 src="https://codeforces-readme-stats.vercel.app/api/card?username=salahqerem&force_username=true&theme=nord&border_color=#FFF" />
+    &ensp;
+  <img height=300 src="https://leetcode.card.workers.dev/salahqerem?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
+</div>
+<hr />
 <h3 align="left">### 😂 Random Dev Meme</h3>
 <p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
 
