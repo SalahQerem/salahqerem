@@ -61,3 +61,4 @@
 <hr /> 
 <h3 align="left">### 😂 Random Dev Meme</h3>
 <p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
