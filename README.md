@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=222&section=header&text=Hi,%20I'm%20Salah%20Al-Din%20Qerem!%20%F0%9F%91%8B&fontSize=50)
-<p align="left"> <img width="250px" src="https://komarev.com/ghpvc/?username=salahqerem&color=00FFFF&style=flat-square&label=Salah%27s+profile+views" alt="Salah-Qerem-profile-views" /> </p>
+<p align="left"> <img width="180px" src="https://komarev.com/ghpvc/?username=salahqerem&color=00FFFF&style=flat-square&label=Salah%27s+profile+views" alt="Salah-Qerem-profile-views" /> </p>
 <h3 align="center">A Computer Systems Engineering Student</h3>
 
 - 🔭 I’m currently studying at **Palestine Technical University - Kadoorie**
