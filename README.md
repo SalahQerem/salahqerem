@@ -3,6 +3,10 @@
 <h3 align="center">A Computer Systems Engineering Student</h3>
 
 - 🔭 I’m currently studying at **Palestine Technical University - Kadoorie**
+
+- My email **salahqerem@gmail.com**
+
+- Know about my experiences [CV](https://drive.google.com/drive/my-drive)
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
