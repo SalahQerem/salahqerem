@@ -6,7 +6,7 @@
 
 - My email **salahqerem@gmail.com**
 
-- Know about my experiences [CV](https://drive.google.com/file/d/1X_cSencgHjAG7-hLqFdr-B1L4aCRjy6B/view?usp=sharing)
+- Know about my experiences [CV](https://drive.google.com/file/d/1igCkIkwqWwM0CFut4KF_Tm2QQkYibdeQ/view?usp=drive_link)
 <hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
