@@ -64,6 +64,5 @@
     &ensp;
   <img height=300 src="https://leetcode.card.workers.dev/salahqerem?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 </div>
-<hr />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
