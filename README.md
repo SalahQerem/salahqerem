@@ -65,7 +65,5 @@
   <img height=300 src="https://leetcode.card.workers.dev/salahqerem?theme=nord&font=baloo&extension=activity&border_color=#FFF" />
 </div>
 <hr />
-<h3 align="left">### 😂 Random Dev Meme</h3>
-<p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=111&section=footer)
