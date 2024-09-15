@@ -2,7 +2,7 @@
 <p align="left"> <img width="180px" src="https://komarev.com/ghpvc/?username=salahqerem&color=00FFFF&style=flat-square&label=Salah%27s+profile+views" alt="Salah-Qerem-profile-views" /> </p>
 <h3 align="center">A Computer Systems Engineer</h3>
 
-- 🔭 I’m currently working at **Foothill Technology Solutions, LLC**
+- 🔭 I’m currently learning **Cypress**
 
 - My email **salahqerem@gmail.com**
 
